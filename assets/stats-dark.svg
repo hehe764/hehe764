@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="962" height="106" viewBox="0 0 962 106" role="img" aria-label="8 个已合并 PR，4 个上游仓库"><title>8 个已合并 PR，4 个上游仓库</title>
+<text x="18" y="68" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="62" font-weight="700" fill="#94b9ea">8</text>
+<text x="85" y="39" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="22" font-weight="600" fill="#e0eaf6">已合并 PR</text>
+<text x="85" y="68" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#9cacc0">问题复现 · 修复 · 回归验证</text>
+<text x="500" y="68" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="62" font-weight="700" fill="#94b9ea">4</text>
+<text x="567" y="39" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="22" font-weight="600" fill="#e0eaf6">上游仓库</text>
+<text x="567" y="68" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#9cacc0">Microsoft · DeerFlow · Dify · Headroom</text>
+</svg>
