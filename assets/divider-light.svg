@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="962" height="39" viewBox="0 0 962 39" role="img" aria-label="分隔线"><title>分隔线</title>
-<path d="M 12 20 H 950" stroke="#d1d9e0" stroke-width="1"/>
-
-
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40" role="img" aria-label="便签分隔线"><title>便签分隔线</title>
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#E3DFD4" stroke-width="0.7"/></pattern></defs>
+<path d="M32 20H550M650 20H1168" stroke="#E3DFD4" stroke-width="2" stroke-dasharray="5 9"/>
+<g transform="rotate(-5 600 20)"><rect x="565" y="7" width="70" height="26" rx="5" fill="#E4EDF9"/><path d="M588 20h24M600 13v14" stroke="#9173BD" stroke-width="3" stroke-linecap="round"/></g>
 </svg>

@@ -1,14 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="962" height="202" viewBox="0 0 962 202" role="img" aria-label="精选贡献仓库：DeerFlow、Microsoft Agent Framework、Headroom"><title>精选贡献仓库：DeerFlow、Microsoft Agent Framework、Headroom</title>
-<circle cx="23" cy="31" r="4" fill="#3d5a7d"/>
-<text x="42" y="36" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="23" font-weight="650" fill="#e0eaf6">bytedance/deer-flow</text>
-<text x="42" y="60" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="17" font-weight="400" fill="#9cacc0">运行状态、沙箱基准与文档转换的可靠性修复</text>
-<text x="934" y="37" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="18" font-weight="600" fill="#94b9ea" text-anchor="end">5 PRs</text>
-<circle cx="23" cy="95" r="4" fill="#3d5a7d"/>
-<text x="42" y="100" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="23" font-weight="650" fill="#e0eaf6">microsoft/agent-framework</text>
-<text x="42" y="124" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="17" font-weight="400" fill="#9cacc0">保护 checkpoint 保存，避免恢复时重复执行</text>
-<text x="934" y="101" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="18" font-weight="600" fill="#94b9ea" text-anchor="end">1 PR</text>
-<circle cx="23" cy="159" r="4" fill="#3d5a7d"/>
-<text x="42" y="164" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="23" font-weight="650" fill="#e0eaf6">headroomlabs-ai/headroom</text>
-<text x="42" y="188" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="17" font-weight="400" fill="#9cacc0">保护短 Shell 输出，避免有损压缩丢失信息</text>
-<text x="934" y="165" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="18" font-weight="600" fill="#94b9ea" text-anchor="end">1 PR</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="279" viewBox="0 0 1160 279" role="img" aria-label="精选上游贡献：DeerFlow、Microsoft Agent Framework、Headroom"><title>精选上游贡献：DeerFlow、Microsoft Agent Framework、Headroom</title>
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#44485E" stroke-width="0.7"/></pattern></defs>
+<rect x="2" y="2" width="1156" height="275" rx="24" fill="#242636" stroke="#44485E" stroke-width="2"/>
+<text x="32" y="43" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="26" font-weight="700" fill="#F7F0DC">开源贡献笔记</text>
+<text x="32" y="73" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="18" font-weight="400" fill="#BCC7DF">从 Agent 工作流到工具输出，记录每一次改进。</text>
+<circle cx="40" cy="105" r="5" fill="#C6B4EF"/>
+<text x="58" y="111" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="22" font-weight="600" fill="#F7F0DC">bytedance/deer-flow</text>
+<text x="58" y="134" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#BCC7DF">运行状态 · 沙箱基准 · 文档转换可靠性</text>
+<text x="1126" y="116" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="23" font-weight="700" fill="#C6B4EF" text-anchor="end">5 merged</text>
+<circle cx="40" cy="159" r="5" fill="#C6B4EF"/>
+<text x="58" y="165" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="22" font-weight="600" fill="#F7F0DC">microsoft/agent-framework</text>
+<text x="58" y="188" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#BCC7DF">保护 checkpoint 保存，避免恢复时重复执行</text>
+<text x="1126" y="170" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="23" font-weight="700" fill="#C6B4EF" text-anchor="end">1 merged</text>
+<circle cx="40" cy="213" r="5" fill="#C6B4EF"/>
+<text x="58" y="219" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="22" font-weight="600" fill="#F7F0DC">headroomlabs-ai/headroom</text>
+<text x="58" y="242" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#BCC7DF">保护短 Shell 输出，避免有损压缩丢失信息</text>
+<text x="1126" y="224" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="23" font-weight="700" fill="#C6B4EF" text-anchor="end">1 merged</text>
 </svg>
