@@ -33,14 +33,85 @@
 
 ### ✦ 已合并 PR
 
-- **[microsoft/agent-framework #9644](https://github.com/microsoft/agent-framework/pull/9644)** — 保护并行工作流中已完成步骤的 checkpoint 保存，避免兄弟步骤失败后恢复时重复执行。
-- **[headroomlabs-ai/headroom #4426](https://github.com/headroomlabs-ai/headroom/pull/4426)** — 保护短 Shell 输出，避免有损压缩丢失工具返回信息。
-- **[bytedance/deer-flow #7659](https://github.com/bytedance/deer-flow/pull/7659)** — 修复文档转换清理失败覆盖原始结果的问题，并处理重复取消时的并发所有权。
-- **[langgenius/dify #44731](https://github.com/langgenius/dify/pull/44731)** — 补充跨模型适配器的结构化输出校验测试。
-- **[bytedance/deer-flow #7450](https://github.com/bytedance/deer-flow/pull/7450)** — 校验钉钉 access token 有效期，为无效数值使用安全默认值。
-- **[bytedance/deer-flow #7363](https://github.com/bytedance/deer-flow/pull/7363)** — 在创建沙箱 provider 前拒绝负数空闲超时。
-- **[bytedance/deer-flow #7297](https://github.com/bytedance/deer-flow/pull/7297)** — 增加只读运行状态工具，提供 token 使用、上下文占用与待办状态。
-- **[bytedance/deer-flow #7059](https://github.com/bytedance/deer-flow/pull/7059)** — 为沙箱基准工具增加 OpenSandbox provider 覆盖。
+<table width="100%">
+<tr>
+<td width="40" align="center">✦</td>
+<td>
+<p><strong><a href="https://github.com/microsoft/agent-framework/pull/9644">microsoft/agent-framework #9644</a></strong></p>
+<p>保护并行工作流中已完成步骤的 checkpoint 保存，避免兄弟步骤失败后恢复时重复执行。</p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="40" align="center">✦</td>
+<td>
+<p><strong><a href="https://github.com/headroomlabs-ai/headroom/pull/4426">headroomlabs-ai/headroom #4426</a></strong></p>
+<p>保护短 Shell 输出，避免有损压缩丢失工具返回信息。</p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="40" align="center">✦</td>
+<td>
+<p><strong><a href="https://github.com/bytedance/deer-flow/pull/7659">bytedance/deer-flow #7659</a></strong></p>
+<p>修复文档转换清理失败覆盖原始结果的问题，并处理重复取消时的并发所有权。</p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="40" align="center">✦</td>
+<td>
+<p><strong><a href="https://github.com/langgenius/dify/pull/44731">langgenius/dify #44731</a></strong></p>
+<p>补充跨模型适配器的结构化输出校验测试。</p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="40" align="center">✦</td>
+<td>
+<p><strong><a href="https://github.com/bytedance/deer-flow/pull/7450">bytedance/deer-flow #7450</a></strong></p>
+<p>校验钉钉 access token 有效期，为无效数值使用安全默认值。</p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="40" align="center">✦</td>
+<td>
+<p><strong><a href="https://github.com/bytedance/deer-flow/pull/7363">bytedance/deer-flow #7363</a></strong></p>
+<p>在创建沙箱 provider 前拒绝负数空闲超时。</p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="40" align="center">✦</td>
+<td>
+<p><strong><a href="https://github.com/bytedance/deer-flow/pull/7297">bytedance/deer-flow #7297</a></strong></p>
+<p>增加只读运行状态工具，提供 token 使用、上下文占用与待办状态。</p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="40" align="center">✦</td>
+<td>
+<p><strong><a href="https://github.com/bytedance/deer-flow/pull/7059">bytedance/deer-flow #7059</a></strong></p>
+<p>为沙箱基准工具增加 OpenSandbox provider 覆盖。</p>
+</td>
+</tr>
+</table>
 
 ### ◇ 进行中的 PR
 
