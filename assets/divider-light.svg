@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="962" height="39" viewBox="0 0 962 39" role="img" aria-label="星星装饰分隔线"><title>星星装饰分隔线</title>
-<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M 24 0 L 0 0 0 24" fill="none" stroke="#e9e6f0" stroke-width="1"/></pattern></defs>
-<path d="M 12 20 H 438 M 524 20 H 950" stroke="#dcdced" stroke-width="2" stroke-dasharray="5 6"/>
-<path d="M 465 14 Q 467 18 471 20 Q 467 22 465 26 Q 463 22 459 20 Q 463 18 465 14" fill="#7b82c3"/>
-<path d="M 487 11 Q 489 18 496 20 Q 489 22 487 29 Q 485 22 478 20 Q 485 18 487 11" fill="#7b82c3"/>
-<path d="M 508 15 Q 510 18 513 20 Q 510 22 508 25 Q 506 22 503 20 Q 506 18 508 15" fill="#7b82c3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="962" height="39" viewBox="0 0 962 39" role="img" aria-label="分隔线"><title>分隔线</title>
+<path d="M 12 20 H 950" stroke="#d1d9e0" stroke-width="1"/>
+
+
+
 </svg>

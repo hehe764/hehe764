@@ -1,30 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="962" height="298" viewBox="0 0 962 298" role="img" aria-label="Selected upstream contributions: DeerFlow, Microsoft Agent Framework, Headroom"><title>Selected upstream contributions: DeerFlow, Microsoft Agent Framework, Headroom</title>
-<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M 24 0 L 0 0 0 24" fill="none" stroke="#e9e6f0" stroke-width="1"/></pattern></defs>
-<rect x="2" y="5" width="958" height="290" rx="24" fill="#fffdf7" stroke="#dcdced"/>
-<rect x="3" y="6" width="956" height="288" rx="23" fill="url(#grid)"/>
-<rect x="381" y="1" width="180" height="25" rx="3" opacity=".8" fill="#d8d9f5" transform="rotate(-2 471.0 13)"/>
-<text x="32" y="49" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="17" font-weight="600" fill="#7b82c3">A FEW PAGES FROM MY NOTEBOOK</text>
-<rect x="21" y="72" width="920" height="62" rx="13" fill="#fffefa" stroke="#dcdced"/>
-<rect x="37" y="86" width="36" height="36" rx="10" fill="#e5edf9"/>
-<text x="55" y="112" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="22" font-weight="700" fill="#475374" text-anchor="middle">D</text>
-<text x="89" y="98" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="21" font-weight="650" fill="#475374">bytedance/deer-flow</text>
-<text x="89" y="121" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#7b819b">运行状态、沙箱基准与文档转换的可靠性修复</text>
-<rect x="825" y="87" width="91" height="32" rx="16" fill="#e5edf9"/>
-<text x="870.5" y="109" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="14" font-weight="600" fill="#475374" text-anchor="middle">5 PRs</text>
-<rect x="21" y="142" width="920" height="62" rx="13" fill="#fffefa" stroke="#dcdced"/>
+<rect x="2" y="5" width="958" height="290" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="32" y="49" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="17" font-weight="600" fill="#59636e">SELECTED CONTRIBUTIONS</text>
+<rect x="21" y="72" width="920" height="62" rx="13" fill="#ffffff" stroke="#d1d9e0"/>
+<rect x="37" y="86" width="36" height="36" rx="10" fill="#f6f8fa"/>
+<text x="55" y="112" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="22" font-weight="700" fill="#1f2328" text-anchor="middle">D</text>
+<text x="89" y="98" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="21" font-weight="650" fill="#1f2328">bytedance/deer-flow</text>
+<text x="89" y="121" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#59636e">运行状态、沙箱基准与文档转换的可靠性修复</text>
+<rect x="825" y="87" width="91" height="32" rx="16" fill="#f6f8fa"/>
+<text x="870.5" y="109" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="14" font-weight="600" fill="#1f2328" text-anchor="middle">5 PRs</text>
+<rect x="21" y="142" width="920" height="62" rx="13" fill="#ffffff" stroke="#d1d9e0"/>
 <rect x="37" y="156" width="14" height="14" rx="2" fill="#f25022"/>
 <rect x="54" y="156" width="14" height="14" rx="2" fill="#7fba00"/>
 <rect x="37" y="173" width="14" height="14" rx="2" fill="#00a4ef"/>
 <rect x="54" y="173" width="14" height="14" rx="2" fill="#ffb900"/>
-<text x="89" y="168" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="21" font-weight="650" fill="#475374">microsoft/agent-framework</text>
-<text x="89" y="191" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#7b819b">保护 checkpoint 保存，避免恢复时重复执行</text>
-<rect x="825" y="157" width="91" height="32" rx="16" fill="#e5edf9"/>
-<text x="870.5" y="179" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="14" font-weight="600" fill="#475374" text-anchor="middle">1 PR</text>
-<rect x="21" y="212" width="920" height="62" rx="13" fill="#fffefa" stroke="#dcdced"/>
-<rect x="37" y="226" width="36" height="36" rx="10" fill="#e5edf9"/>
-<text x="55" y="252" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="22" font-weight="700" fill="#475374" text-anchor="middle">H</text>
-<text x="89" y="238" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="21" font-weight="650" fill="#475374">headroomlabs-ai/headroom</text>
-<text x="89" y="261" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#7b819b">保护短 Shell 输出，避免有损压缩丢失信息</text>
-<rect x="825" y="227" width="91" height="32" rx="16" fill="#e5edf9"/>
-<text x="870.5" y="249" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="14" font-weight="600" fill="#475374" text-anchor="middle">1 PR</text>
+<text x="89" y="168" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="21" font-weight="650" fill="#1f2328">microsoft/agent-framework</text>
+<text x="89" y="191" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#59636e">保护 checkpoint 保存，避免恢复时重复执行</text>
+<rect x="825" y="157" width="91" height="32" rx="16" fill="#f6f8fa"/>
+<text x="870.5" y="179" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="14" font-weight="600" fill="#1f2328" text-anchor="middle">1 PR</text>
+<rect x="21" y="212" width="920" height="62" rx="13" fill="#ffffff" stroke="#d1d9e0"/>
+<rect x="37" y="226" width="36" height="36" rx="10" fill="#f6f8fa"/>
+<text x="55" y="252" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="22" font-weight="700" fill="#1f2328" text-anchor="middle">H</text>
+<text x="89" y="238" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="21" font-weight="650" fill="#1f2328">headroomlabs-ai/headroom</text>
+<text x="89" y="261" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#59636e">保护短 Shell 输出，避免有损压缩丢失信息</text>
+<rect x="825" y="227" width="91" height="32" rx="16" fill="#f6f8fa"/>
+<text x="870.5" y="249" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="14" font-weight="600" fill="#1f2328" text-anchor="middle">1 PR</text>
 </svg>
