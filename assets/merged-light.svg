@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="220" viewBox="0 0 470 220" role="img" aria-label="MERGED PULL REQUESTS"><title>MERGED PULL REQUESTS</title>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M 24 0 L 0 0 0 24" fill="none" stroke="#e9e6f0" stroke-width="1"/></pattern></defs>
+<rect x="2" y="5" width="466" height="212" rx="24" fill="#fffdf7" stroke="#dcdced"/>
+<rect x="3" y="6" width="464" height="210" rx="23" fill="url(#grid)"/>
+<rect x="295" y="2" width="105" height="25" rx="3" opacity=".8" fill="#d8d9f5" transform="rotate(4 347.5 14)"/>
+<text x="27" y="49" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="600" fill="#7b82c3">MERGED PULL REQUESTS</text>
+<text x="26" y="135" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="72" font-weight="700" fill="#475374">8</text>
+<text x="100" y="113" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="20" font-weight="600" fill="#475374">已合并的开源贡献</text>
+<text x="28" y="178" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="15" font-weight="400" fill="#7b819b">从问题复现，到修复与回归验证</text>
+<path d="M 415 94 Q 417 103 426 105 Q 417 107 415 116 Q 413 107 404 105 Q 413 103 415 94" fill="#7b82c3"/>
+</svg>
