@@ -10,6 +10,6 @@ Use case: stylized-concept. Create one transparent chibi fan-art sticker of Anna
 
 ## 统计与维护
 
-8 条已合并贡献与 4 个上游仓库对应正文列出的记录；精选卡片展示 DeerFlow、Microsoft Agent Framework 和 Headroom。微软 PR #9644 依据作者确认及历史发布记录保留。统计是静态快照，本版未启用每日刷新工作流。
+截至 2026-11-27，正文列出 9 条已合并贡献，来自 4 个上游仓库。精选卡片展示 DeerFlow、Microsoft Agent Framework 和 Headroom。微软 PR #9644 依据此前的作者确认及历史发布记录保留。其余 PR 状态来自本次 GitHub 核对。统计为手动更新的快照。
 
 所有姓名、介绍、统计与装饰文字均使用可编辑 SVG；插画内嵌为 PNG，不依赖远程图片服务。主页仅使用中文和英文。

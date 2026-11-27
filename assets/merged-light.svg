@@ -7,9 +7,9 @@
 <text x="28" y="68" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="14" font-weight="400" fill="#59657B">公开 PR · hehe764</text>
 <path d="M24 83H556" stroke="#E3DFD4" stroke-dasharray="4 6"/>
 <text x="30" y="121" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="20" font-weight="400" fill="#59657B">已合并 PR</text>
-<text x="546" y="121" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="29" font-weight="700" fill="#9173BD" text-anchor="end">8</text>
+<text x="546" y="121" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="29" font-weight="700" fill="#9173BD" text-anchor="end">9</text>
 <text x="30" y="164" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="20" font-weight="400" fill="#59657B">进行中的 PR</text>
-<text x="546" y="164" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="29" font-weight="700" fill="#9173BD" text-anchor="end">1</text>
+<text x="546" y="164" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="29" font-weight="700" fill="#9173BD" text-anchor="end">0</text>
 <text x="30" y="207" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="20" font-weight="400" fill="#59657B">已关闭未合并</text>
-<text x="546" y="207" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="29" font-weight="700" fill="#9173BD" text-anchor="end">4</text>
+<text x="546" y="207" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="29" font-weight="700" fill="#9173BD" text-anchor="end">5</text>
 </svg>

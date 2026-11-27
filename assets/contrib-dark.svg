@@ -5,8 +5,8 @@
 <text x="32" y="73" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="18" font-weight="400" fill="#BCC7DF">从 Agent 工作流到工具输出，记录每一次改进。</text>
 <circle cx="40" cy="105" r="5" fill="#C6B4EF"/>
 <text x="58" y="111" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="22" font-weight="600" fill="#F7F0DC">bytedance/deer-flow</text>
-<text x="58" y="134" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#BCC7DF">运行状态 · 沙箱基准 · 文档转换可靠性</text>
-<text x="1126" y="116" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="23" font-weight="700" fill="#C6B4EF" text-anchor="end">5 merged</text>
+<text x="58" y="134" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#BCC7DF">运行状态 · 沙箱基准 · 文档转换 · CSV 导入</text>
+<text x="1126" y="116" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="23" font-weight="700" fill="#C6B4EF" text-anchor="end">6 merged</text>
 <circle cx="40" cy="159" r="5" fill="#C6B4EF"/>
 <text x="58" y="165" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="22" font-weight="600" fill="#F7F0DC">microsoft/agent-framework</text>
 <text x="58" y="188" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" fill="#BCC7DF">保护 checkpoint 保存，避免恢复时重复执行</text>
